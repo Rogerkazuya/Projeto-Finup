@@ -1,0 +1,35 @@
+.container{
+    width: 100vw;
+    background-color: cyan;
+}
+.conteudo{
+    display: flex;
+}
+
+.menu{
+    display: flex;
+margin: auto;
+    background-color: cadetblue;
+}
+
+.opcoes{
+    display: flex;
+    margin: 0px 0px 0px 720px;
+}
+
+.li{
+    margin: 0px 200px 0px 0px;
+}
+
+.link{
+    border: solid 1px black;
+    background-color: rgb(240, 240, 240);
+
+   
+}
+
+
+a.link:link {color:#ff0000;}
+a.link:visited {color:#0000ff;}
+a.link:hover {font-size:150%;}
+
