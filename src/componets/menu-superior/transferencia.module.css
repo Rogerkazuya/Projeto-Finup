@@ -1,0 +1,33 @@
+.container{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  
+}
+
+.conteudo{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+
+.transferencia{
+    letter-spacing: 2.5px;
+    margin: auto;
+    background-color: #ffffff;
+    
+}
+
+.image{
+    margin: auto;
+   margin-left: 100px;
+}
+
+.paragrafo{
+font-family: Georgia, 'Times New Roman', Times, serif ;
+font-size: 40px;
+
+}
+
+

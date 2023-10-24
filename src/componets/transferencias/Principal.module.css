@@ -1,0 +1,25 @@
+.principal{
+    margin-top: 20px;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+
+.caixa{
+    border: solid 1px black;
+    height: 50vh;
+}
+
+.meio{
+    display: flex;
+    justify-content: space-around;
+}
+.link{
+    margin: 10px;
+    list-style: none;
+    cursor: pointer;
+    border: solid 1px black;
+    padding: 10px;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

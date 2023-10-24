@@ -1,5 +1,5 @@
 
-import Conteudo from '@/componets/conteudo/conteudo'
+import PaginaPrincipal from '@/componets/conteudo/PaginaPrincipal'
 import Menu from '@/componets/menu-superior/menu-superior'
 
 
@@ -9,7 +9,7 @@ export default function Home() {
     <main>
       <Menu />
 
-    <Conteudo/>
+    <PaginaPrincipal/>
     </main>
   )
 

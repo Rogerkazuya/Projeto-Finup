@@ -1,10 +1,10 @@
-import styles from "./conteudo.module.css"
+import styles from "./PaginaPrincipal.module.css"
 import img1 from "../../../assets/muie2.png"
 import img2 from "../../../assets/conceito-de-seguranca-de-pagamento-online-telefone-3d-e-conta.jpg"
 import img3 from "../../../assets/mao-3d-usando-o-aplicativo-bancario-on-line-no-smartphone.jpg"
 import Image from "next/image"
 
-export default function Conteudo() {
+export default function PaginaPrincipal() {
     return (
         <main className={styles.conteudo}>
             <div className={styles.meio}>
