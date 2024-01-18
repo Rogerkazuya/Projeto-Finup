@@ -1,0 +1,25 @@
+.conteudo {
+    height: 99%;
+    width: 99%;
+    overflow: hidden;
+    overflow: hidden; 
+    background-color: blue; 
+    position: absolute;
+   
+}
+
+.form {position: absolute;
+    left: 47%;
+    top: 50%;
+    
+    
+}
+
+.email{
+
+
+}
+
+.senha {
+
+}

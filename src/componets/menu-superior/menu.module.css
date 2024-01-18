@@ -16,20 +16,22 @@
 
 .opcoes{
   display: flex;
+  list-style: none;
   margin: 0px 0px 0px 720px;
 }
 
 .li{
-  margin: 0px 200px 0px 0px;
+  margin: 0px 150px 0px 0px;
 }
 
 .link{
   border: solid 1px black;
   background-color: rgb(240, 240, 240);
-}
+  font-family: Inter,Arial,Helvetica,sans-serif;
+  }
 
 
 a.link:link {color:#ff0000;}
 a.link:visited {color:#0000ff;}
-a.link:hover {font-size:150%;}
+a.link:hover {font-size:120%;}
 
